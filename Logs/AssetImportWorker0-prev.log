@@ -1,0 +1,1566 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.13f1 (71691879b7f5) revision 7432472'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.1110; Version 2009; 64bit' Language: 'ru' Physical Memory: 7103 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.13f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/serko/Food Slicer
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56611
+Successfully changed project path to: C:/Users/serko/Food Slicer
+C:/Users/serko/Food Slicer
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 41.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.13f1 (71691879b7f5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/serko/Food Slicer/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Vega 8 Graphics (ID=0x15d8)
+    Vendor:   
+    VRAM:     3551 MB
+    Driver:   26.20.11030.14002
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56828
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002828 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 47.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.723 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005585 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.418 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1441 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.3 MB.
+System memory in use after: 67.3 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1874.
+Total: 2.922900 ms (FindLiveObjects: 0.228300 ms CreateObjectMapping: 0.054400 ms MarkObjects: 2.525000 ms  DeleteObjects: 0.113800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Новая папка
+  artifactKey: Guid(02dec12d0c9fdc3498626f12c5fbe530) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Новая папка using Guid(02dec12d0c9fdc3498626f12c5fbe530) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c45b546f7a2497ba24054ac8132729d6') in 0.014908 seconds 
+  Import took 0.017624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.336398 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.018777 seconds 
+  Import took 0.024594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.304733 seconds.
+  path: Assets/New Folder
+  artifactKey: Guid(c92a81172105d234493e7192aa6c9b64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder using Guid(c92a81172105d234493e7192aa6c9b64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99b0665d4f61fc204b9d781ce689cc7c') in 0.020054 seconds 
+  Import took 0.025380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.191610 seconds.
+  path: Assets/Models
+  artifactKey: Guid(b1d3238a661349f42843c6c93b936b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models using Guid(b1d3238a661349f42843c6c93b936b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f03743ca8f6eaa5bfbed5ca675a288e') in 0.020689 seconds 
+  Import took 0.026554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.466702 seconds.
+  path: Assets/Models/Perfect Slicer
+  artifactKey: Guid(a55ff56086f3c224fb1b01c34d03c2b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer using Guid(a55ff56086f3c224fb1b01c34d03c2b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d17adc3cabbec2ba9802424e9eeed68') in 0.020666 seconds 
+  Import took 0.026003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.061658 seconds.
+  path: Assets/Models/Perfect Slicer/Conveyer_SM.FBX
+  artifactKey: Guid(cda4a0664859c104fb4eec59783f15ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Conveyer_SM.FBX using Guid(cda4a0664859c104fb4eec59783f15ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3ee5857cb771789a2690c69bda2e305') in 0.564201 seconds 
+  Import took 0.567555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.320443 seconds.
+  path: Assets/Models/Perfect Slicer/BzKovSoft
+  artifactKey: Guid(1d05e7a5a90197849bd820c60429b10e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/BzKovSoft using Guid(1d05e7a5a90197849bd820c60429b10e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea96aa83080b07f080e89542d40cd82a') in 0.028073 seconds 
+  Import took 0.033892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002032 seconds.
+  path: Assets/Models/Perfect Slicer/BzKovSoft
+  artifactKey: Guid(1d05e7a5a90197849bd820c60429b10e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/BzKovSoft using Guid(1d05e7a5a90197849bd820c60429b10e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea96aa83080b07f080e89542d40cd82a') in 0.004940 seconds 
+  Import took 0.009178 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 6.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 42.5 MB.
+System memory in use after: 42.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1917.
+Total: 6.945400 ms (FindLiveObjects: 0.703300 ms CreateObjectMapping: 0.256900 ms MarkObjects: 5.836900 ms  DeleteObjects: 0.145200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.17 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 42.5 MB.
+System memory in use after: 42.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1917.
+Total: 3.434500 ms (FindLiveObjects: 0.199500 ms CreateObjectMapping: 0.041600 ms MarkObjects: 3.114600 ms  DeleteObjects: 0.077500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 92.929897 seconds.
+  path: Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs
+  artifactKey: Guid(a6479cae3d0e441ff91ff4be9f9f8f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs using Guid(a6479cae3d0e441ff91ff4be9f9f8f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed1ea0f798c89f257444f3d8ad8401a0') in 0.014341 seconds 
+  Import took 0.021895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.053489 seconds.
+  path: Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife01.prefab
+  artifactKey: Guid(7bcc54258231848138cec626f58cfa89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife01.prefab using Guid(7bcc54258231848138cec626f58cfa89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3506fc8f676d246bb2a40d8590d0a665') in 0.451828 seconds 
+  Import took 0.458622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife14.prefab
+  artifactKey: Guid(d1dabab1413ec4482831b568800a8bc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife14.prefab using Guid(d1dabab1413ec4482831b568800a8bc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '486755bb3163e958b6807039ea8934e5') in 0.115082 seconds 
+  Import took 0.120928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife03.prefab
+  artifactKey: Guid(4eaad37132ee940bc93aa62972194a4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife03.prefab using Guid(4eaad37132ee940bc93aa62972194a4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab6b2b3afbaacef01fb80acd35ed119d') in 0.050220 seconds 
+  Import took 0.054807 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife10.prefab
+  artifactKey: Guid(20c623b8004694c75af2d45942262942) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife10.prefab using Guid(20c623b8004694c75af2d45942262942) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46677d15fbf5019518187e29279d3d2e') in 0.047984 seconds 
+  Import took 0.052341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife04.prefab
+  artifactKey: Guid(1a60c4dc3467a4f469cff29737ec1311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife04.prefab using Guid(1a60c4dc3467a4f469cff29737ec1311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dd64254a341dece4964d28b02cd8933') in 0.047011 seconds 
+  Import took 0.051838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife08.prefab
+  artifactKey: Guid(0217a5215e4fd436f883875e8c838c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife08.prefab using Guid(0217a5215e4fd436f883875e8c838c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5d9bd273342a174f4aa71a3b9d154cf') in 0.045529 seconds 
+  Import took 0.050124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife12.prefab
+  artifactKey: Guid(f9f06d5f7b31240c893691166c98333c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife12.prefab using Guid(f9f06d5f7b31240c893691166c98333c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'deebd5fbdb4ba337dbb90ed8b390c368') in 0.050216 seconds 
+  Import took 0.055217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife06.prefab
+  artifactKey: Guid(fe9f6f884b31043eb8068c03d1b2023b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife06.prefab using Guid(fe9f6f884b31043eb8068c03d1b2023b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e997cc8d6cf96085eefd23160426d7e') in 0.055657 seconds 
+  Import took 0.061095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife19.prefab
+  artifactKey: Guid(8ead7c48636dc4db4ba7321654f59338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife19.prefab using Guid(8ead7c48636dc4db4ba7321654f59338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '717a693cccf523f9d9fdf7cf07edbd92') in 0.057727 seconds 
+  Import took 0.062480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife15.prefab
+  artifactKey: Guid(46db023c758fa4a2ab82f52dcfc5c906) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife15.prefab using Guid(46db023c758fa4a2ab82f52dcfc5c906) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93567e288523aedb6f687348844a9472') in 0.049710 seconds 
+  Import took 0.055260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife16.prefab
+  artifactKey: Guid(384c2d1e2efdd4dd0a08ecf0683b81f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife16.prefab using Guid(384c2d1e2efdd4dd0a08ecf0683b81f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70bba668aeed9dc31b5b0b627197e06f') in 0.049150 seconds 
+  Import took 0.053941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife18.prefab
+  artifactKey: Guid(ed76ce88aa10f8b49af6b6fb4a8907b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife18.prefab using Guid(ed76ce88aa10f8b49af6b6fb4a8907b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bd27228b9e73f7193abea92ef103401') in 0.049981 seconds 
+  Import took 0.054358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife05.prefab
+  artifactKey: Guid(d8a754abbb1d44c09b679e89864af0e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife05.prefab using Guid(d8a754abbb1d44c09b679e89864af0e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1a7e837920d2cb0432d9cbd2b79b8aa') in 0.045693 seconds 
+  Import took 0.050235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife20.prefab
+  artifactKey: Guid(34ed957f6cff2432b82bb73dd3d4b110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife20.prefab using Guid(34ed957f6cff2432b82bb73dd3d4b110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b17f4b4f3829708cb66a1b5b5beb6944') in 0.046379 seconds 
+  Import took 0.050720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife11.prefab
+  artifactKey: Guid(c1f92617ec4d049d68b95554cdfbd7b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife11.prefab using Guid(c1f92617ec4d049d68b95554cdfbd7b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cee45938cb2a07e968f34b6df742b2f7') in 0.045661 seconds 
+  Import took 0.050651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife02.prefab
+  artifactKey: Guid(fb510079e5804499998f4e46eccb89d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife02.prefab using Guid(fb510079e5804499998f4e46eccb89d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bebcb959cd3f7941c8e1ba88200734a5') in 0.049439 seconds 
+  Import took 0.053763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife07.prefab
+  artifactKey: Guid(42f66ac5c18d9465195c1efd6b170917) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife07.prefab using Guid(42f66ac5c18d9465195c1efd6b170917) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb30d1675cd13454aeb959ccecfc1a39') in 0.047917 seconds 
+  Import took 0.052671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife09.prefab
+  artifactKey: Guid(928265c23ce4542369f5896b86db9ef1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife09.prefab using Guid(928265c23ce4542369f5896b86db9ef1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f3a2d28c978691b6fc418eacadc30ab') in 0.051086 seconds 
+  Import took 0.055405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife13.prefab
+  artifactKey: Guid(0daa7d4570b494186b6b40ea1fab69dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife13.prefab using Guid(0daa7d4570b494186b6b40ea1fab69dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '429408e857137355bf3baaedef116da3') in 0.048955 seconds 
+  Import took 0.053891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife17.prefab
+  artifactKey: Guid(573c9f47c8d8d46e492eb12e7489df36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Prefabs/Knife17.prefab using Guid(573c9f47c8d8d46e492eb12e7489df36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06df0247fa943d34bfe8be61a0dee97c') in 0.048388 seconds 
+  Import took 0.052900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 323.675819 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack
+  artifactKey: Guid(4106e28c210b3c7459af3f31e2b6234d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack using Guid(4106e28c210b3c7459af3f31e2b6234d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f2b81b2f5ac841138b00107c22f241b') in 0.016698 seconds 
+  Import took 0.022625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.606950 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/models
+  artifactKey: Guid(ae5dfd73c59884bc5858c54f27b8c9a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/models using Guid(ae5dfd73c59884bc5858c54f27b8c9a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bca9d339d7b401a4bd655159a5ea22f1') in 0.016835 seconds 
+  Import took 0.021907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.806560 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs
+  artifactKey: Guid(73e7d70c3bce245afa2504a8e1a5eadc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs using Guid(73e7d70c3bce245afa2504a8e1a5eadc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22a956dbae1a17466dded5e581fcd511') in 0.016234 seconds 
+  Import took 0.022026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029349 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Apple_G.prefab
+  artifactKey: Guid(89924b37c5f2b44238bd475c70b8662d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Apple_G.prefab using Guid(89924b37c5f2b44238bd475c70b8662d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '640d8d46d07c67c42fc734370ff5f1ce') in 0.092199 seconds 
+  Import took 0.096121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Banana_Top.prefab
+  artifactKey: Guid(9c366f6a836304d49bcd6563fc1efb34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Banana_Top.prefab using Guid(9c366f6a836304d49bcd6563fc1efb34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e56cc16850595da4b4f171e26036f20') in 0.028143 seconds 
+  Import took 0.031635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Apple_R.prefab
+  artifactKey: Guid(ed27db4c023594ca283c13f1de0d33e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Apple_R.prefab using Guid(ed27db4c023594ca283c13f1de0d33e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '883a81ca7084e965d7fb0effb15a6ad3') in 0.025159 seconds 
+  Import took 0.028587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Apple_R_Back.prefab
+  artifactKey: Guid(c922a0d7bf1e54e13a3be9a49bbda09e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Apple_R_Back.prefab using Guid(c922a0d7bf1e54e13a3be9a49bbda09e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a75e3e2e645408300dcc2b3569c4ff9') in 0.029801 seconds 
+  Import took 0.033760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Coconut.prefab
+  artifactKey: Guid(74d0dbcdc251f42f584cf08b75573076) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Coconut.prefab using Guid(74d0dbcdc251f42f584cf08b75573076) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '168054c5408b77ace51132e3b7c4ece9') in 0.023013 seconds 
+  Import took 0.026545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Coconut_Bottom.prefab
+  artifactKey: Guid(04a85b938e4db485393f9f48831b12f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Coconut_Bottom.prefab using Guid(04a85b938e4db485393f9f48831b12f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fdda8bf743e243c6804be13a190896d') in 0.028547 seconds 
+  Import took 0.032827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/HoneydewMelon.prefab
+  artifactKey: Guid(82d6976b59381403a9a83475023092f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/HoneydewMelon.prefab using Guid(82d6976b59381403a9a83475023092f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c91a29f5f4968008cff837a217a068c') in 0.020421 seconds 
+  Import took 0.024164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Banana_Bottom.prefab
+  artifactKey: Guid(622ede27118614009a8b3c4054434015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Banana_Bottom.prefab using Guid(622ede27118614009a8b3c4054434015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a5796d576468a13cf7ad70a644e84ce') in 0.024529 seconds 
+  Import took 0.028170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Kiwi.prefab
+  artifactKey: Guid(e4749021a229047aea3b9ff9ab897bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Kiwi.prefab using Guid(e4749021a229047aea3b9ff9ab897bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '418cd5a9635ab3cc3a73e3229e6670a9') in 0.023506 seconds 
+  Import took 0.027634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/HoneydewMelon_Top.prefab
+  artifactKey: Guid(b53f89de440c045ffbd2a9e0f97eecdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/HoneydewMelon_Top.prefab using Guid(b53f89de440c045ffbd2a9e0f97eecdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be579f516e01921d025657a22899ec41') in 0.023983 seconds 
+  Import took 0.027765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Banana.prefab
+  artifactKey: Guid(bf8fa835e0d27434c81b42db21ae1aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Banana.prefab using Guid(bf8fa835e0d27434c81b42db21ae1aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10e710cbe45ae451440e049904638ee0') in 0.021955 seconds 
+  Import took 0.025959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Coconut_Top.prefab
+  artifactKey: Guid(fb18f41c8e3bd4157b3a4eb7d79dcad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Coconut_Top.prefab using Guid(fb18f41c8e3bd4157b3a4eb7d79dcad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddf1dee4886d2b0d2bac7b937559b054') in 0.027456 seconds 
+  Import took 0.031135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Apple_R_Front.prefab
+  artifactKey: Guid(94c2d23e3210d4cdf839273589c57078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Apple_R_Front.prefab using Guid(94c2d23e3210d4cdf839273589c57078) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1431641c323873d7ecf026883ffca573') in 0.027696 seconds 
+  Import took 0.031103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Kiwi_Bottom.prefab
+  artifactKey: Guid(25208f4df2d8142bdb1a457c7d54843f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Kiwi_Bottom.prefab using Guid(25208f4df2d8142bdb1a457c7d54843f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3617fd8e83112dc1df51986e1d7300d') in 0.030682 seconds 
+  Import took 0.034512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/HoneydewMelon_Bottom.prefab
+  artifactKey: Guid(c444fc90cfe22428ca38c3b6e8bc2c17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/HoneydewMelon_Bottom.prefab using Guid(c444fc90cfe22428ca38c3b6e8bc2c17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8846a12a931b1cc384a9f15edb3ae44d') in 0.020971 seconds 
+  Import took 0.024527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Apple_G_Back.prefab
+  artifactKey: Guid(0d38d376cef94456c9aee204cfd71cd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Apple_G_Back.prefab using Guid(0d38d376cef94456c9aee204cfd71cd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c15a09bea2fd2c0a484c4c77e2f24aa') in 0.026218 seconds 
+  Import took 0.029588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Apple_G_Front.prefab
+  artifactKey: Guid(771701ab9389e4777bceb549bc0f3e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Apple_G_Front.prefab using Guid(771701ab9389e4777bceb549bc0f3e2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca666d24194ba4d074d760a888898332') in 0.025874 seconds 
+  Import took 0.030115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.151906 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Kiwi_Top.prefab
+  artifactKey: Guid(71f34e9b11bb8435babfd3bb9f4e3c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Kiwi_Top.prefab using Guid(71f34e9b11bb8435babfd3bb9f4e3c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be744533edff76b6598b82aeff4f9187') in 0.035745 seconds 
+  Import took 0.041530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Lemon_Top.prefab
+  artifactKey: Guid(83a8125f6fbae476fac6b9b4161c5150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Lemon_Top.prefab using Guid(83a8125f6fbae476fac6b9b4161c5150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60edd10fc02ecaeb72ab57d8415adf09') in 0.033315 seconds 
+  Import took 0.038535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Lemon_Bottom.prefab
+  artifactKey: Guid(64432e891ded9430c8a78a5e0fc9e716) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Lemon_Bottom.prefab using Guid(64432e891ded9430c8a78a5e0fc9e716) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3d2a5d7328af796080cb7b4d4a16420') in 0.030343 seconds 
+  Import took 0.034761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Lemon.prefab
+  artifactKey: Guid(ae9e41656104c462884d85b145d3c425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Lemon.prefab using Guid(ae9e41656104c462884d85b145d3c425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c09c462c4824d3fec9eef9d8d076bcd') in 0.021514 seconds 
+  Import took 0.025299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.570792 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Lime.prefab
+  artifactKey: Guid(faff8a9ad93f048c18afb4e9ef9485f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Lime.prefab using Guid(faff8a9ad93f048c18afb4e9ef9485f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80a2a117bfa26236873d905b96931887') in 0.033371 seconds 
+  Import took 0.038984 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000438 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Lime_Bottom.prefab
+  artifactKey: Guid(1f2c631b843bc4d97a47204ee9984f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Lime_Bottom.prefab using Guid(1f2c631b843bc4d97a47204ee9984f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '023a5824a1ee252623895d77dda4a789') in 0.035991 seconds 
+  Import took 0.040742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000483 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Lime_Top.prefab
+  artifactKey: Guid(0a8b11b3c8bda45bba0df73c60737f9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Lime_Top.prefab using Guid(0a8b11b3c8bda45bba0df73c60737f9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '817f0b3d4903eca548002802af590647') in 0.029861 seconds 
+  Import took 0.033580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Lime_Bottom.prefab
+  artifactKey: Guid(1f2c631b843bc4d97a47204ee9984f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Lime_Bottom.prefab using Guid(1f2c631b843bc4d97a47204ee9984f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '023a5824a1ee252623895d77dda4a789') in 0.018977 seconds 
+  Import took 0.022344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Orange.prefab
+  artifactKey: Guid(f5195277c907d408cac99f5b69138668) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Orange.prefab using Guid(f5195277c907d408cac99f5b69138668) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7765fcdef9fa1989710672b5601acd71') in 0.025085 seconds 
+  Import took 0.028821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.050359 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Orange_Bottom.prefab
+  artifactKey: Guid(4562de5dec81a441db27b5e02e215b6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Orange_Bottom.prefab using Guid(4562de5dec81a441db27b5e02e215b6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eec1e4b9a2339f75376393632c7d185') in 0.020790 seconds 
+  Import took 0.023997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pear.prefab
+  artifactKey: Guid(85444691f991b42fb9698d5bccf7d8c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pear.prefab using Guid(85444691f991b42fb9698d5bccf7d8c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e463be1a5fe5446a59857400311d8ddc') in 0.026339 seconds 
+  Import took 0.030255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pear_Back.prefab
+  artifactKey: Guid(d518a05b446a5444c80f8f3493d4142c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pear_Back.prefab using Guid(d518a05b446a5444c80f8f3493d4142c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f66b120ba3460722f099948f5f6f4490') in 0.023135 seconds 
+  Import took 0.026469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Orange_Top.prefab
+  artifactKey: Guid(1220bc12b167e4ae6b6c4d586eabd5f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Orange_Top.prefab using Guid(1220bc12b167e4ae6b6c4d586eabd5f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8f5081c9b1286bfb084f33f899e9769') in 0.028604 seconds 
+  Import took 0.032104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.878865 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pear_Front.prefab
+  artifactKey: Guid(accf924d0948e47c3b2c3ce0c0f1c9cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pear_Front.prefab using Guid(accf924d0948e47c3b2c3ce0c0f1c9cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d348505b8c9ac2a9b09ab010c0d1767') in 0.040559 seconds 
+  Import took 0.046342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pepper_G.prefab
+  artifactKey: Guid(4606f860667a74c4089748a5f17e39ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pepper_G.prefab using Guid(4606f860667a74c4089748a5f17e39ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7353c8640cd47e9802d24be43d0ab8e1') in 0.030767 seconds 
+  Import took 0.035699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pepper_G_Bottom.prefab
+  artifactKey: Guid(97d66042ca223483daa96e25f23d9cfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pepper_G_Bottom.prefab using Guid(97d66042ca223483daa96e25f23d9cfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f167d542017f055bc606cfe7618ff19a') in 0.028738 seconds 
+  Import took 0.032833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pepper_G_Top.prefab
+  artifactKey: Guid(988ac4999c097478e8d8ef99da88bf2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pepper_G_Top.prefab using Guid(988ac4999c097478e8d8ef99da88bf2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39a300f78ac4b496b14573e6afd5a10f') in 0.026076 seconds 
+  Import took 0.029717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.345814 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pepper_Pointed.prefab
+  artifactKey: Guid(0fab97b8001e7424e99c4a78076c3dba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pepper_Pointed.prefab using Guid(0fab97b8001e7424e99c4a78076c3dba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2306dd4c1c09cb2d3266beedcf58cfc7') in 0.038055 seconds 
+  Import took 0.043807 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pepper_Pointed_Bottom.prefab
+  artifactKey: Guid(efaf8f422c9c7490caf3236333170cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pepper_Pointed_Bottom.prefab using Guid(efaf8f422c9c7490caf3236333170cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a46b6f8628e3004c6b1dff422c1fc43') in 0.027848 seconds 
+  Import took 0.032351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pepper_Y_Bottom.prefab
+  artifactKey: Guid(6f7ba9cfde79b477e876cdd8e1debca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pepper_Y_Bottom.prefab using Guid(6f7ba9cfde79b477e876cdd8e1debca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b42e2a5b30cb0c0d2b747fb51c6aa999') in 0.027533 seconds 
+  Import took 0.031198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pepper_Y_Top.prefab
+  artifactKey: Guid(71bb720c553df453f94ed0fefaab546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pepper_Y_Top.prefab using Guid(71bb720c553df453f94ed0fefaab546c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83841c0b82920dea648428c5bfeb52d4') in 0.030633 seconds 
+  Import took 0.034209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pepper_Pointed_Bottom.prefab
+  artifactKey: Guid(efaf8f422c9c7490caf3236333170cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pepper_Pointed_Bottom.prefab using Guid(efaf8f422c9c7490caf3236333170cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a46b6f8628e3004c6b1dff422c1fc43') in 0.016559 seconds 
+  Import took 0.020893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pepper_Pointed.prefab
+  artifactKey: Guid(0fab97b8001e7424e99c4a78076c3dba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pepper_Pointed.prefab using Guid(0fab97b8001e7424e99c4a78076c3dba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2306dd4c1c09cb2d3266beedcf58cfc7') in 0.018643 seconds 
+  Import took 0.022856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pepper_R_Bottom.prefab
+  artifactKey: Guid(645111b0468504ddf897695b3c881ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pepper_R_Bottom.prefab using Guid(645111b0468504ddf897695b3c881ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d5feca8fdbbb7a5d81631525a7305aa') in 0.022248 seconds 
+  Import took 0.025661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pepper_R.prefab
+  artifactKey: Guid(ce30c39161a9d48bfa5d06c7c308f25d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pepper_R.prefab using Guid(ce30c39161a9d48bfa5d06c7c308f25d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2202e9288fe11765d9acad1475b85621') in 0.021342 seconds 
+  Import took 0.024414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pineapple_Bottom.prefab
+  artifactKey: Guid(3169b45239303455e961cbb806a192de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pineapple_Bottom.prefab using Guid(3169b45239303455e961cbb806a192de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af200c0270c6b55335189eca36f6db00') in 0.035090 seconds 
+  Import took 0.038967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pepper_R_Top.prefab
+  artifactKey: Guid(de14f217142af4fdf9404de617f0f7a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pepper_R_Top.prefab using Guid(de14f217142af4fdf9404de617f0f7a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff71023574e36389bbfca1bce3347bae') in 0.023473 seconds 
+  Import took 0.027328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pineapple.prefab
+  artifactKey: Guid(19e3af33485ca460d8a05d3d8c9c9fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pineapple.prefab using Guid(19e3af33485ca460d8a05d3d8c9c9fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a53476ba822e599e496ac0af6bb499c') in 0.024005 seconds 
+  Import took 0.028004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pepper_Pointed_Top.prefab
+  artifactKey: Guid(39de84f443a514d4a9ab803499e1ab1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pepper_Pointed_Top.prefab using Guid(39de84f443a514d4a9ab803499e1ab1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '390b1d221dbe0932d4b424b5fb90c352') in 0.025793 seconds 
+  Import took 0.029765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pepper_Y.prefab
+  artifactKey: Guid(6ccc23719a4004ea59ef73a7f2634575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pepper_Y.prefab using Guid(6ccc23719a4004ea59ef73a7f2634575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '329fe26676de3d6d8d4f6feb33b82a64') in 0.022952 seconds 
+  Import took 0.026526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pineapple_Top.prefab
+  artifactKey: Guid(091538ba54add49e9b8f1bccc1127f2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Pineapple_Top.prefab using Guid(091538ba54add49e9b8f1bccc1127f2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04040a7a3540f676f05bd238278449c0') in 0.028751 seconds 
+  Import took 0.032932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.755000 seconds.
+  path: Assets/Models/Perfect Slicer/BzKovSoft/ObjectSlicerSamples/Controller.prefab
+  artifactKey: Guid(1c72659dd39ef8646b2878b69061fa5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/BzKovSoft/ObjectSlicerSamples/Controller.prefab using Guid(1c72659dd39ef8646b2878b69061fa5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4d4c5061f09a950f2439c0e35bf4754') in 0.011992 seconds 
+  Import took 0.015421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/Models/Perfect Slicer/BzKovSoft/ObjectSlicerSamples/SectionView.mat
+  artifactKey: Guid(9b42e832ae539cc43aff953e96e71645) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/BzKovSoft/ObjectSlicerSamples/SectionView.mat using Guid(9b42e832ae539cc43aff953e96e71645) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e6f728e10f3d98af17af880ee70e35f') in 0.028832 seconds 
+  Import took 0.032371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Models/Perfect Slicer/BzKovSoft/ObjectSlicerSamples/LowFriction.physicMaterial
+  artifactKey: Guid(4f46d2bf78001c04ca88c358d2150118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/BzKovSoft/ObjectSlicerSamples/LowFriction.physicMaterial using Guid(4f46d2bf78001c04ca88c358d2150118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43cddf59b6188c3e8ab8e68e1a908169') in 0.014010 seconds 
+  Import took 0.018546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/Models/Perfect Slicer/BzKovSoft/ObjectSlicerSamples/Shell.mat
+  artifactKey: Guid(92cbb45978f712b49bb1b5b2f76dc13d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/BzKovSoft/ObjectSlicerSamples/Shell.mat using Guid(92cbb45978f712b49bb1b5b2f76dc13d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a3d44d7e339ecc40e89b8b2ae5b4ba0') in 0.020952 seconds 
+  Import took 0.026189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/Models/Perfect Slicer/BzKovSoft/ObjectSlicerSamples/Knife.prefab
+  artifactKey: Guid(af65a131a1c8d4c4984199326e5e791b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/BzKovSoft/ObjectSlicerSamples/Knife.prefab using Guid(af65a131a1c8d4c4984199326e5e791b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9aac08eb05c2659e4ea6de56784e47f') in 0.021738 seconds 
+  Import took 0.025142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.173978 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/illustrator/Coconut_Inside_Textural.png
+  artifactKey: Guid(c480c8fd9ab50415cb3fbdb2aed98d8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/illustrator/Coconut_Inside_Textural.png using Guid(c480c8fd9ab50415cb3fbdb2aed98d8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58270579e67d8584fcce274e213a2a3e') in 0.076177 seconds 
+  Import took 0.082748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000480 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/illustrator/Coconut_Whole_Textural.png
+  artifactKey: Guid(8793bb2fc05f141b6bc07c919e82a694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/illustrator/Coconut_Whole_Textural.png using Guid(8793bb2fc05f141b6bc07c919e82a694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da8b2143554483398ffd44737f015e45') in 0.031235 seconds 
+  Import took 0.036044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/illustrator/Kiwi_HalfSection_Textural.png
+  artifactKey: Guid(5cee318e674c54b2e9b67a5ee2187752) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/illustrator/Kiwi_HalfSection_Textural.png using Guid(5cee318e674c54b2e9b67a5ee2187752) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0677968dae3c5179deaa7da07006cb3') in 0.024883 seconds 
+  Import took 0.029376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.842653 seconds.
+  path: Assets/Models/Perfect Slicer/BzKovSoft/ObjectSlicerSamples
+  artifactKey: Guid(34d47b63d4326a04f9b17ea593132a2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/BzKovSoft/ObjectSlicerSamples using Guid(34d47b63d4326a04f9b17ea593132a2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a460330d2ddd9890dcb4347bf024e41') in 0.017285 seconds 
+  Import took 0.022613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.813650 seconds.
+  path: Assets/Models/Perfect Slicer/BzKovSoft/ObjectSlicerSamples/SampleKnifeSlicer.cs
+  artifactKey: Guid(200ded9909662e34a8fc05744a57ed3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/BzKovSoft/ObjectSlicerSamples/SampleKnifeSlicer.cs using Guid(200ded9909662e34a8fc05744a57ed3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '485a5c4c2a22f2452c6534808099bf76') in 0.032511 seconds 
+  Import took 0.038395 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005826 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.394 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1439 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.0 MB.
+System memory in use after: 71.1 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1922.
+Total: 3.258800 ms (FindLiveObjects: 0.236600 ms CreateObjectMapping: 0.062200 ms MarkObjects: 2.856200 ms  DeleteObjects: 0.101600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 94.004009 seconds.
+  path: Assets/Models/Perfect Slicer/BzKovSoft/ObjectSlicerSamples/Knife.prefab
+  artifactKey: Guid(af65a131a1c8d4c4984199326e5e791b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/BzKovSoft/ObjectSlicerSamples/Knife.prefab using Guid(af65a131a1c8d4c4984199326e5e791b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3e1eb0c372a7b408840f17bbd255e59') in 0.280173 seconds 
+  Import took 0.283684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.249958 seconds.
+  path: Assets/Models/Perfect Slicer/BzKovSoft/ObjectSlicerSamples/Knife.prefab
+  artifactKey: Guid(af65a131a1c8d4c4984199326e5e791b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/BzKovSoft/ObjectSlicerSamples/Knife.prefab using Guid(af65a131a1c8d4c4984199326e5e791b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3e1eb0c372a7b408840f17bbd255e59') in 0.016088 seconds 
+  Import took 0.021521 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006988 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.644 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1439 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.1 MB.
+System memory in use after: 71.1 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1926.
+Total: 3.985000 ms (FindLiveObjects: 0.301500 ms CreateObjectMapping: 0.043200 ms MarkObjects: 3.552600 ms  DeleteObjects: 0.085800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006069 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.550 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.67 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1439 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.1 MB.
+System memory in use after: 71.2 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1929.
+Total: 3.633000 ms (FindLiveObjects: 0.439400 ms CreateObjectMapping: 0.079200 ms MarkObjects: 3.023100 ms  DeleteObjects: 0.087500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007288 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.030 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1439 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.1 MB.
+System memory in use after: 71.2 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1932.
+Total: 3.893900 ms (FindLiveObjects: 0.293600 ms CreateObjectMapping: 0.052900 ms MarkObjects: 3.407600 ms  DeleteObjects: 0.137600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006236 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.04 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.824 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1439 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.1 MB.
+System memory in use after: 71.2 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1935.
+Total: 3.634900 ms (FindLiveObjects: 0.235200 ms CreateObjectMapping: 0.055400 ms MarkObjects: 3.256900 ms  DeleteObjects: 0.085200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 520.748140 seconds.
+  path: Assets/Conveyer.cs
+  artifactKey: Guid(9c7fea527e158414384b1b04666809a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Conveyer.cs using Guid(9c7fea527e158414384b1b04666809a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0fdaa4836bb98fbe23eb403a745a694') in 0.014270 seconds 
+  Import took 0.017940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.281819 seconds.
+  path: Assets/NewBehaviourScript.cs
+  artifactKey: Guid(4350ca6f69257da4ab5dbbc03a794998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewBehaviourScript.cs using Guid(4350ca6f69257da4ab5dbbc03a794998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b15e7ac786d9021f81c9b2daf06616ff') in 0.019065 seconds 
+  Import took 0.023800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008240 seconds.
+  path: Assets/NewBehaviourScript.cs
+  artifactKey: Guid(4350ca6f69257da4ab5dbbc03a794998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewBehaviourScript.cs using Guid(4350ca6f69257da4ab5dbbc03a794998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b15e7ac786d9021f81c9b2daf06616ff') in 0.006238 seconds 
+  Import took 0.012835 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005029 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.410 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.1 MB.
+System memory in use after: 71.2 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1939.
+Total: 4.234100 ms (FindLiveObjects: 0.293900 ms CreateObjectMapping: 0.085200 ms MarkObjects: 3.737800 ms  DeleteObjects: 0.114400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 16.198054 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(893e2581c8a16764dba1e7686a63c419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(893e2581c8a16764dba1e7686a63c419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be76eff11672bb3172234c525d97bd9b') in 0.018405 seconds 
+  Import took 0.022831 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006613 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.430 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.73 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.1 MB.
+System memory in use after: 71.2 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1942.
+Total: 3.574400 ms (FindLiveObjects: 0.212600 ms CreateObjectMapping: 0.043400 ms MarkObjects: 3.209600 ms  DeleteObjects: 0.107000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007759 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.862 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.65 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.1 MB.
+System memory in use after: 71.2 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1945.
+Total: 3.727900 ms (FindLiveObjects: 0.224600 ms CreateObjectMapping: 0.045700 ms MarkObjects: 3.336300 ms  DeleteObjects: 0.118800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 269.802245 seconds.
+  path: Assets/Scripts/Conveyer.cs
+  artifactKey: Guid(9c7fea527e158414384b1b04666809a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Conveyer.cs using Guid(9c7fea527e158414384b1b04666809a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '475cf69a9dbd87f0a3e8542dd4348a02') in 0.007774 seconds 
+  Import took 0.011750 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005894 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.450 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.2 MB.
+System memory in use after: 71.2 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1948.
+Total: 4.078100 ms (FindLiveObjects: 0.215200 ms CreateObjectMapping: 0.038600 ms MarkObjects: 3.720500 ms  DeleteObjects: 0.102000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005780 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.539 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.2 MB.
+System memory in use after: 71.2 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1951.
+Total: 4.547700 ms (FindLiveObjects: 0.317600 ms CreateObjectMapping: 0.088500 ms MarkObjects: 4.018700 ms  DeleteObjects: 0.120500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 366.188218 seconds.
+  path: Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Materials
+  artifactKey: Guid(615c7be9c05654660b3ca59645df392b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet/Materials using Guid(615c7be9c05654660b3ca59645df392b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78ce6409ca59ad72ba67ed4523d09945') in 0.019723 seconds 
+  Import took 0.025551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.528752 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Apple_G.prefab
+  artifactKey: Guid(89924b37c5f2b44238bd475c70b8662d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Apple_G.prefab using Guid(89924b37c5f2b44238bd475c70b8662d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38b571f072f77ffb0f5c520c734b374b') in 0.146364 seconds 
+  Import took 0.151241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Kiwi.prefab
+  artifactKey: Guid(e4749021a229047aea3b9ff9ab897bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Kiwi.prefab using Guid(e4749021a229047aea3b9ff9ab897bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33f8cb983285da2d1dc21497fa41d8a2') in 0.030330 seconds 
+  Import took 0.036006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Banana.prefab
+  artifactKey: Guid(bf8fa835e0d27434c81b42db21ae1aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Banana.prefab using Guid(bf8fa835e0d27434c81b42db21ae1aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cddd37325106408f9a2b64573d684a9') in 0.021848 seconds 
+  Import took 0.026270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007449 seconds.
+  path: Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Banana.prefab
+  artifactKey: Guid(bf8fa835e0d27434c81b42db21ae1aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Food - Fruits Pack/prefabs/Banana.prefab using Guid(bf8fa835e0d27434c81b42db21ae1aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cddd37325106408f9a2b64573d684a9') in 0.018461 seconds 
+  Import took 0.022687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.174148 seconds.
+  path: Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet
+  artifactKey: Guid(c5666ada47eee8645b32c682d73454b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/Assets_UltimateKnifeSet using Guid(c5666ada47eee8645b32c682d73454b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7898938adc414fcb2740c4fbe303458c') in 0.017926 seconds 
+  Import took 0.024881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 351.973299 seconds.
+  path: Assets/Scripts/Slicer.cs
+  artifactKey: Guid(2cc94b02d51f4d5469b7fcbed6c286e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Slicer.cs using Guid(2cc94b02d51f4d5469b7fcbed6c286e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '752109d1f2fb58685e4fccfd508ab949') in 0.012739 seconds 
+  Import took 0.016698 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005680 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.606 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1441 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.2 MB.
+System memory in use after: 71.3 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1956.
+Total: 3.345100 ms (FindLiveObjects: 0.241200 ms CreateObjectMapping: 0.059700 ms MarkObjects: 2.946800 ms  DeleteObjects: 0.095400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 229.717477 seconds.
+  path: Assets/Scripts/Slicer.cs
+  artifactKey: Guid(2cc94b02d51f4d5469b7fcbed6c286e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Slicer.cs using Guid(2cc94b02d51f4d5469b7fcbed6c286e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1caffd047b4fb43652444a6f0e9c9f1c') in 0.007876 seconds 
+  Import took 0.011494 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008015 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.592 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1453 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.6 MB.
+System memory in use after: 71.7 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1974.
+Total: 3.069500 ms (FindLiveObjects: 0.242500 ms CreateObjectMapping: 0.059600 ms MarkObjects: 2.670800 ms  DeleteObjects: 0.094500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012168 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.614 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1452 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.6 MB.
+System memory in use after: 71.6 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1977.
+Total: 3.055300 ms (FindLiveObjects: 0.275100 ms CreateObjectMapping: 0.052000 ms MarkObjects: 2.633500 ms  DeleteObjects: 0.092200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007115 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.620 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1452 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.6 MB.
+System memory in use after: 71.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1980.
+Total: 2.613300 ms (FindLiveObjects: 0.217200 ms CreateObjectMapping: 0.039100 ms MarkObjects: 2.274900 ms  DeleteObjects: 0.080500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009218 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.932 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1452 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.6 MB.
+System memory in use after: 71.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1983.
+Total: 3.588700 ms (FindLiveObjects: 0.518300 ms CreateObjectMapping: 0.072500 ms MarkObjects: 2.912100 ms  DeleteObjects: 0.082800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1304.723300 seconds.
+  path: Assets/Models/Perfect Slicer/BzKovSoft/ObjectSlicerSamples/Controller.prefab
+  artifactKey: Guid(1c72659dd39ef8646b2878b69061fa5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Perfect Slicer/BzKovSoft/ObjectSlicerSamples/Controller.prefab using Guid(1c72659dd39ef8646b2878b69061fa5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bba150456519ae1d39a4b85a7bc2b53') in 0.043625 seconds 
+  Import took 0.048046 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005943 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.600 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1452 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.6 MB.
+System memory in use after: 71.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1986.
+Total: 2.557500 ms (FindLiveObjects: 0.206200 ms CreateObjectMapping: 0.038700 ms MarkObjects: 2.230600 ms  DeleteObjects: 0.080500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008353 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.036 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.16 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1452 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.6 MB.
+System memory in use after: 71.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1989.
+Total: 4.469200 ms (FindLiveObjects: 0.432300 ms CreateObjectMapping: 0.075000 ms MarkObjects: 3.778400 ms  DeleteObjects: 0.181400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006173 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.405 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1452 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.6 MB.
+System memory in use after: 71.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1992.
+Total: 2.581500 ms (FindLiveObjects: 0.201800 ms CreateObjectMapping: 0.038700 ms MarkObjects: 2.264600 ms  DeleteObjects: 0.074800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
